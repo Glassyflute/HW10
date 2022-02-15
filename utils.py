@@ -1,7 +1,6 @@
 import json
 import pprint
 
-
 def show_all_candidates():
     """
     Показывает информацию по всем кандидатам после загрузки данных из файла json
